@@ -1,3 +1,5 @@
+// HI!!
+
 function onInit() {
 	console.log('Init!')
 	$elImg = $('.info img')
